@@ -1,6 +1,6 @@
 Hallo Welt ich bin die erste GIT Datei
 
-Hallo Conflict resolved
+Hallo Conflict resolved - Altlasten beseitigt!!!
 
 Hallo ich bin die Zeile aus dem Branch "test_branch"
 
