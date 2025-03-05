@@ -1,6 +1,6 @@
 Hallo Welt ich bin die erste GIT Datei
 
-Hallo nochmal
+Hallo vom Test_Branch :-)
 
 Hallo ich bin die Zeile aus dem Branch "test_branch"
 
