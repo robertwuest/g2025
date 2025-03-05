@@ -5,3 +5,5 @@ Hallo Conflict resolved
 Hallo ich bin die Zeile aus dem Branch "test_branch"
 
 sdasdasdasdas
+
+Neuer Content von alt_branch
